@@ -1,9 +1,11 @@
 # Act-8-6I-FilaCol-0469
 Web
-<img width="1035" height="564" alt="image" src="https://github.com/user-attachments/assets/2a66a592-0cf5-4a7c-a82a-203dab7d2c9e" />
+
+<img width="783" height="778" alt="image" src="https://github.com/user-attachments/assets/af08f056-ed00-4e94-bdc0-d6f0d8949558" />
+
 Android
 
-<img width="399" height="692" alt="image" src="https://github.com/user-attachments/assets/3a05f8d6-0189-4ce9-8e77-365b0eda43d9" />
+<img width="405" height="686" alt="image" src="https://github.com/user-attachments/assets/c769fa4f-1c93-40fd-ba00-68fcab1cd8bb" />
 
 
 A new Flutter project.
